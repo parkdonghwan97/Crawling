@@ -1,13 +1,5 @@
 # Crawling
 
-https://namu.wiki/w/robots.txt   => 마저 작성
-
-
-
-
-Xpath, BeautifulSoup, Selenium을 활용한 예제 및 프로젝트 적용 사례
-
-
 1.Xpath
 
 - [국민청원사이트](https://www1.president.go.kr/petitions/best)
